@@ -1,0 +1,12 @@
+<update>
+	<version>6</version>
+	<name>muscle_v2.2.1</name>
+	<info>提供手动更新功能</info>
+	<url>https://github.com/abrums21/muscleCaptain_publish/blob/master/publish/muscle_v2.2.1.apk?raw=true</url>
+
+	<patch apk="3">
+	    <url>https://github.com/abrums21/muscleCaptain_publish/blob/master/publish/muscle_v2.2.1.patch?raw=true</url>
+	    <md5>D24E986D9AAF3FE01D9BF223C5286E44</md5>
+	</patch>
+	
+</update>
