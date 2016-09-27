@@ -2,10 +2,10 @@
 	<version>6</version>
 	<name>muscle_v2.2.2</name>
 	<info>美化界面及扩展功能</info>
-	<url>https://github.com/abrums21/muscleCaptain_publish/blob/master/publish/muscle_v2.2.2.apk?raw=true</url>
+	<url>https://github.com/abrums21/muscleCaptain_publish/blob/master/publish/muscle_v2.2.3.apk?raw=true</url>
 
 	<patch apk="3">
-	    <url>https://github.com/abrums21/muscleCaptain_publish/blob/master/publish/muscle_v2.2.2.patch?raw=true</url>
+	    <url>https://github.com/abrums21/muscleCaptain_publish/blob/master/publish/muscle_v2.2.3.patch?raw=true</url>
 	    <md5>D24E986D9AAF3FE01D9BF223C5286E44</md5>
 	</patch>
 	
